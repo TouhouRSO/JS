@@ -51,6 +51,6 @@ picture for #5:
 
 picture for #6:
 
-![alt text](http://puu.sh/9QjRM/55570cecc6.jpg)
+![alt text](http://puu.sh/9QjYO/ed9eaf3e21.jpg)
 
 #7 Enjoy your game :)
