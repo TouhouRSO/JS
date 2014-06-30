@@ -21,36 +21,36 @@ Tutorial:
 
 picture for #1 :
 
-![alt text](http://puu.sh/9Qk6N/fd5739a06c.jpg)
+![alt text](https://raw.githubusercontent.com/TouhouRSO/JS/master/tutorialPictures/%231.jpg)
 
 #2 Open your chrome bookmark (ctrl + shift + o)
 
 picture for #2:
 
-![alt text](http://puu.sh/9QjEc/d3c83dd994.jpg)
+![alt text](https://raw.githubusercontent.com/TouhouRSO/JS/master/tutorialPictures/%232.jpg)
 
 #3 Make a new bookmark (right click -> add page...)
 
 picture for #3:
 
-![alt text](http://puu.sh/9QjHW/a16021b401.jpg)
+![alt text](https://raw.githubusercontent.com/TouhouRSO/JS/master/tutorialPictures/%233.jpg)
 
 #4 Type    javascript:    in the address
 
 picture for #4:
 
-![alt text](http://puu.sh/9QjMa/2308c88662.jpg)
+![alt text](https://raw.githubusercontent.com/TouhouRSO/JS/master/tutorialPictures/%234.jpg)
 
 #5 Paste the full source on the address after the javascript:
 
 picture for #5:
 
-![alt text](http://puu.sh/9QjOF/369c8efc4b.jpg)
+![alt text](https://raw.githubusercontent.com/TouhouRSO/JS/master/tutorialPictures/%235.jpg)
 
 #6 At the beginning of the match, click the bookmark
 
 picture for #6:
 
-![alt text](http://puu.sh/9QjYO/ed9eaf3e21.jpg)
+![alt text](https://raw.githubusercontent.com/TouhouRSO/JS/master/tutorialPictures/%236.jpg)
 
 #7 Enjoy your game :)
