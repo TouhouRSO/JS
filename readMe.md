@@ -23,26 +23,34 @@ picture for #1 :
 
 ![alt text](http://puu.sh/9Qjvw/1292025b6e.jpg)
 
-#2 Open your chrome bookmark
+#2 Open your chrome bookmark (ctrl + shift + o)
 
 picture for #2:
 
-#3 Make a new bookmark
+![alt text](http://puu.sh/9QjEc/d3c83dd994.jpg)
+
+#3 Make a new bookmark (right click -> add page...)
 
 picture for #3:
+
+![alt text](http://puu.sh/9QjHW/a16021b401.jpg)
 
 #4 Type    javascript:    in the address
 
 picture for #4:
 
+![alt text](http://puu.sh/9QjMa/2308c88662.jpg)
+
 #5 Paste the full source on the address after the javascript:
 
 picture for #5:
 
-#6 Click the bookmark
+![alt text](http://puu.sh/9QjOF/369c8efc4b.jpg)
+
+#6 At the beginning of the match, click the bookmark
 
 picture for #6:
 
-#7 Enjoy your game :)
+![alt text](http://puu.sh/9QjRM/55570cecc6.jpg)
 
-picture for #7:
+#7 Enjoy your game :)
