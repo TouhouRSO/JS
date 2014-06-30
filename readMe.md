@@ -12,7 +12,7 @@ copy paste the full source and run it as bookmark
 
 full source:
 
-$("#dulst-customCSS")[0].innerHTML="div[data-dulstclass~=\"Battle-Spell\"][data-location=\"me-FirstRow\"]{\ntop:500px !important\;\n}\ndiv[data-dulstclass~=\"Battle-Spell\"][data-location=\"opponent-FirstRow\"] {\ntop: 340px !important\;\n}";$('#content').click(function(){$("[id^=c-]").each(function(){if($(this).attr("data-location")==="opponent-SecondRow"||$(this).attr("data-location")==="opponent-FirstRow"){$(this).find("img")[0].src=$(this).attr("src");}});});$('#content').click(function(){$("[id^=c-]").each(function(){if($(this).attr("data-location")==="opponent-SecondRow"||$(this).attr("data-location")==="opponent-FirstRow"){$(this).find("img")[0].src=$(this).attr("src");}});});
+$("#dulst-customCSS")[0].innerHTML="div[data-dulstclass~=\"Battle-Spell\"][data-location=\"me-FirstRow\"]{\ntop:540px !important\;\n}\ndiv[data-dulstclass~=\"Battle-Spell\"][data-location=\"opponent-FirstRow\"] {\ntop: 380px !important\;\n}";$('#content').click(function(){$("[id^=c-]").each(function(){if($(this).attr("data-location")==="opponent-SecondRow"||$(this).attr("data-location")==="opponent-FirstRow"){$(this).find("img")[0].src=$(this).attr("src");}});});$('#content').click(function(){$("[id^=c-]").each(function(){if($(this).attr("data-location")==="opponent-SecondRow"||$(this).attr("data-location")==="opponent-FirstRow"){$(this).find("img")[0].src=$(this).attr("src");}});});
 
 
 Tutorial:
