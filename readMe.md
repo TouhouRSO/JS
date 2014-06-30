@@ -21,6 +21,8 @@ Tutorial:
 
 picture for #1 :
 
+![alt text](http://puu.sh/9Qjvw/1292025b6e.jpg)
+
 2. Open your chrome bookmark
 
 picture for #2:
