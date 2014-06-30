@@ -17,32 +17,32 @@ $("#dulst-customCSS")[0].innerHTML="div[data-dulstclass~=\"Battle-Spell\"][data-
 
 Tutorial:
 
-1. Copy the full source
+#1 Copy the full source
 
 picture for #1 :
 
 ![alt text](http://puu.sh/9Qjvw/1292025b6e.jpg)
 
-2. Open your chrome bookmark
+#2 Open your chrome bookmark
 
 picture for #2:
 
-3. Make a new bookmark
+#3 Make a new bookmark
 
 picture for #3:
 
-4. Type    javascript:    in the address
+#4 Type    javascript:    in the address
 
 picture for #4:
 
-5. Paste the full source on the address after the javascript:
+#5 Paste the full source on the address after the javascript:
 
 picture for #5:
 
-6. Click the bookmark
+#6 Click the bookmark
 
 picture for #6:
 
-7. Enjoy your game :)
+#7 Enjoy your game :)
 
 picture for #7:
