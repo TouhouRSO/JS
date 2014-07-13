@@ -54,3 +54,9 @@ picture for #6:
 ![alt text](https://raw.githubusercontent.com/TouhouRSO/JS/master/tutorialPictures/%236.jpg)
 
 #7 Enjoy your game :)
+
+
+
+===================================
+This project is discontinued due to delay on server site. If you want to pick this up, feel free to notify.
+===================================
