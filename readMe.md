@@ -58,5 +58,6 @@ picture for #6:
 
 
 ===================================
-This project is discontinued due to delay on server site. If you want to pick this up, feel free to notify.
+This project is discontinued due to fix on the server site.
+If you have any concern about RSO mechanism in dulst, feel free to open a new thread in the forum.
 ===================================
